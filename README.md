@@ -2,10 +2,6 @@
 
 # <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1500&color=3FB950&center=true&vCenter=true&width=300&height=48&lines=ShinRyu04" alt="ShinRyu04" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1800&color=3FB950&center=true&vCenter=true&width=440&lines=one+endpoint%2C+one+key%2C+every+model;if+it+can+be+free%2C+why+pay" alt="" />
-
-<br>
-
 ![Profile views](https://komarev.com/ghpvc/?username=ShinRyu04&label=profile+views&color=0e75b6&style=flat)
 
 </div>
