@@ -1,8 +1,8 @@
 <div align="center">
 
-# hi, i'm <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1500&color=3FB950&center=true&vCenter=true&width=300&height=48&lines=ShinRyu04" alt="ShinRyu04" />
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1500&color=3FB950&center=true&vCenter=true&width=300&height=48&lines=ShinRyu04" alt="ShinRyu04" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1800&color=3FB950&center=true&vCenter=true&width=560&lines=i+build+tools+that+AI+drives+%E2%80%94+not+the+other+way+around;one+endpoint%2C+one+key%2C+every+model;if+it+can+be+free%2C+why+pay" alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1800&color=3FB950&center=true&vCenter=true&width=440&lines=one+endpoint%2C+one+key%2C+every+model;if+it+can+be+free%2C+why+pay" alt="" />
 
 <br>
 
