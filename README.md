@@ -39,23 +39,15 @@ more experiments and questionable engineering decisions in the repos 👇
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShinRyu04&show_icons=true&locale=en&count_private=true&theme=radical&hide_border=true" alt="GitHub stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=ShinRyu04&show_icons=true&locale=en&count_private=true&theme=radical&hide_border=true&hide=stars" alt="GitHub stats" height="150" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinRyu04&layout=compact&locale=en&theme=radical&hide_border=true" alt="Top languages" height="150" />
 
 </div>
-
-### 🐉 the dragon
-
-this dragon runs on my contribution graph. feed it commits, or it gets ideas.
 
 <p align="center">
   <a href="https://opengameart.org/content/dragon-fully-animated">
     <img src="./dragon.webp" alt="dragon" width="280" />
   </a>
-</p>
-
-<p align="center">
-  <i>art by Cethiel · OpenGameArt · CC0 — click the dragon, it knows where it came from.</i>
 </p>
 
 ---
