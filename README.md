@@ -1,53 +1,54 @@
-<div align="center">
+### ShinRyu04
 
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1500&color=3FB950&center=true&vCenter=true&width=300&height=48&lines=ShinRyu04" alt="ShinRyu04" />
+> *one endpoint, one key — the dragon eats free tiers.*
 
-![Profile views](https://komarev.com/ghpvc/?username=ShinRyu04&label=profile+views&color=0e75b6&style=flat)
+hey — i'm **Khalid** (`Indonesia`). i spend most of my time building **AI-first tooling**: native editors that agents can actually drive, local gateways that route every model behind one endpoint, and desktop apps that don't eat 2 GB of RAM just to render a text box.
 
-</div>
-
-hey — I spend my time building **AI-first tooling**: editors the agent drives, gateways that route every model through one door, desktop wrappers that make CLIs feel like apps.
-
-sometimes the AI writes the commits. honestly, that's fine. somebody has to supervise.
-
-### 🛠️ what i work with
-
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-F472B6?style=for-the-badge&logo=bun&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-
-### 🔨 things i've built
-
-| project | | what it does |
-| :--- | :--- | :--- |
-| [**Zephyr**](https://github.com/ShinRyu04/Zephyr) | `public` | a lightweight code editor that AI CLIs can drive — the editor follows the agent's workflow, not the other way around |
-| **AI gateway** | `private` | every model — free tiers & my own keys — unified behind one endpoint and one key, with fallback combos and a watchdog |
-| **desktop tooling** | `wip` | Rust/Tauri wrappers that give AI CLIs a real desktop presence — tray, watchdog, one-click everything |
-
-more experiments and questionable engineering decisions in the repos 👇
-
-### 📊 numbers
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ShinRyu04&show_icons=true&locale=en&count_private=true&theme=radical&hide_border=true&hide=stars" alt="GitHub stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinRyu04&layout=compact&locale=en&theme=radical&hide_border=true" alt="Top languages" height="150" />
-
-</div>
-
-<p align="center">
-  <a href="https://opengameart.org/content/dragon-fully-animated">
-    <img src="./dragon.webp" alt="dragon" width="280" />
-  </a>
-</p>
+sometimes the AI writes the commits. honestly, that's fine. somebody still has to supervise.
 
 ---
 
+#### current focus — [Nakroth](https://github.com/ShinRyu04/Nakroth)
+
+Native Rust GPUI IDE & multi-agent cockpit built for **Claude Code**, **Antigravity (`agy`)**, **Codex**, and **OpenCode** — 4 dedicated workspaces (`Editor`, `Fleet`, `Chat`, `Studio`), persistent `stream-json` workers, ConPTY terminal, and zero Electron overhead.
+
+<a href="https://github.com/ShinRyu04/Nakroth">
+  <img src="https://raw.githubusercontent.com/ShinRyu04/Nakroth/main/docs/screenshots/editor.png" alt="Nakroth IDE" width="100%" />
+</a>
+
+<sub>
+  <a href="https://github.com/ShinRyu04/Nakroth/releases/latest">Download latest release</a> · Windows (<code>.exe</code> / <code>.zip</code>) · Linux (<code>.deb</code> / <code>.rpm</code> / <code>.AppImage</code>) · macOS (<code>.dmg</code> / <code>.pkg</code>)
+</sub>
+
+---
+
+#### selected projects
+
+| project | stack | what it does |
+| :--- | :--- | :--- |
+| [**Nakroth**](https://github.com/ShinRyu04/Nakroth) | `Rust · GPUI` | Native 120 FPS AI-first IDE & multi-agent cockpit with Fleet worktrees, Studio UI Designer, and persistent CLI workers |
+| [**Zcode-Fucking-Mod**](https://github.com/ShinRyu04/Zcode-Fucking-Mod) | `Go` | OpenAI/Anthropic-compatible gateway for ZCode plan quota with a local operations dashboard |
+| [**Autoclaw**](https://github.com/ShinRyu04/Autoclaw) | `JavaScript` | Self-hosted OpenAI/Anthropic gateway for AutoClaw & Z.ai — multi-account rotation, quotas, and watchdog |
+| [**Zephyr**](https://github.com/ShinRyu04/Zephyr) | `TypeScript` | Lightweight code editor built around AI CLI workflows |
+| [**Qoder-Local-Gateway**](https://github.com/ShinRyu04/Qoder-Local-Gateway) | `JavaScript` | Local gateway for Qoder CLI with OAuth login, multi-account profiles, and credit metering |
+| [**kantor-agent**](https://github.com/ShinRyu04/kantor-agent) | `JavaScript` | Zero-config 3D office plugin that visualizes Claude Code & subagents working live |
+
+---
+
+#### stack
+
+```text
+languages   Rust · Go · TypeScript · Python
+desktop     GPUI (Direct3D 11 / Vulkan / Metal) · Win32 COM · ConPTY · Tauri
+infra       OpenAI/Anthropic local proxies · ACP / stream-json · SQLite FTS5 · Docker
+```
+
 <p align="center">
-  <i>built on free tiers and stubbornness.</i>
+  <a href="https://opengameart.org/content/dragon-fully-animated">
+    <img src="./dragon.webp" alt="dragon" width="240" />
+  </a>
+</p>
+
+<p align="center">
+  <sub><i>built on free tiers and stubbornness.</i></sub>
 </p>
