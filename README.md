@@ -48,7 +48,3 @@ infra       OpenAI/Anthropic local proxies · ACP / stream-json · SQLite FTS5 �
     <img src="./dragon.webp" alt="dragon" width="240" />
   </a>
 </p>
-
-<p align="center">
-  <sub><i>built on free tiers and stubbornness.</i></sub>
-</p>
