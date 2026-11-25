@@ -42,9 +42,3 @@ languages   Rust · Go · TypeScript · Python
 desktop     GPUI (Direct3D 11 / Vulkan / Metal) · Win32 COM · ConPTY · Tauri
 infra       OpenAI/Anthropic local proxies · ACP / stream-json · SQLite FTS5 · Docker
 ```
-
-<p align="center">
-  <a href="https://opengameart.org/content/dragon-fully-animated">
-    <img src="./dragon.webp" alt="dragon" width="240" />
-  </a>
-</p>
